@@ -1,0 +1,7 @@
+Flask
+gunicorn
+requests
+python-dotenv
+python-jose[cryptography]
+google-cloud-datastore
+google-cloud-storage
